@@ -15,7 +15,7 @@
 
 .element-card {
   position: relative;
-  width: 100px;
+  width: 70px;
   height: 130px;
   transform-style: preserve-3d;
   transform: rotatey(0deg) translatex(0px) translatey(0px);
